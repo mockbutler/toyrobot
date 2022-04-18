@@ -1,0 +1,12 @@
+place 5,5,west
+report
+move
+report
+left
+report
+place -3,5,North
+report
+place 2,2,South
+report
+move
+report
